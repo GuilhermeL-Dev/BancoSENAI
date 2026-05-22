@@ -1,2 +1,0 @@
-# BancoSENAI
-Atividade escolar
